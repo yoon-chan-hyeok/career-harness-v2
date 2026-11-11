@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="460" viewBox="0 0 1160 460" role="img" aria-labelledby="title desc">
+  <title id="title">자소서코치 시스템 개요</title>
+  <desc id="desc">브라우저의 작업실이 웹 연결 계층과 실행 API를 거쳐 모델 연결과 저장소를 사용하는 구조. 사용자 선택과 저장 복원을 중심에 둔다.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#0040d9"/></marker></defs>
+  <rect x="1" y="1" width="1158" height="458" rx="16" fill="#f7f9fc" stroke="#d5dce8"/>
+  <g font-family="Malgun Gothic,Noto Sans KR,Arial,sans-serif">
+    <text x="34" y="45" fill="#101522" font-size="21" font-weight="700">사용자가 선택하고, 실행 결과를 남기는 구조</text>
+    <text x="34" y="70" fill="#45536a" font-size="12">PUBLIC DESIGN OVERVIEW · 2026.11.11</text>
+    <g stroke="#0040d9" stroke-width="2" fill="none" marker-end="url(#arrow)">
+      <path d="M237 191H278"/><path d="M487 191H528"/>
+      <path d="M737 176H775V160H818"/><path d="M737 206H775V306H818"/>
+    </g>
+    <g fill="#fff" stroke="#b8c5dd">
+      <rect x="33" y="129" width="204" height="126" rx="10"/>
+      <rect x="283" y="129" width="204" height="126" rx="10"/>
+      <rect x="533" y="129" width="204" height="126" rx="10" stroke="#0040d9" stroke-width="2"/>
+      <rect x="823" y="104" width="303" height="113" rx="10"/>
+      <rect x="823" y="250" width="303" height="113" rx="10"/>
+    </g>
+    <g fill="#0040d9" font-size="11" font-weight="700">
+      <text x="53" y="156">WORKSPACE</text><text x="303" y="156">WEB SERVICE</text><text x="553" y="156">RUNTIME</text><text x="845" y="131">MODEL GATEWAY</text><text x="845" y="277">PERSISTENCE</text>
+    </g>
+    <g fill="#101522" font-size="21" font-weight="700">
+      <text x="53" y="192">브라우저 작업실</text><text x="303" y="192">Next.js</text><text x="553" y="192">FastAPI</text><text x="845" y="166">공통 LLM 연결</text><text x="845" y="312">Supabase PostgreSQL</text>
+    </g>
+    <g fill="#45536a" font-size="12">
+      <text x="53" y="224">입력 · 읽기 · 선택 · 작성</text><text x="303" y="224">같은 출처의 화면과 API 연결</text><text x="553" y="224">현재 상태 확인 · 작업 실행</text><text x="845" y="193">전송 확인 → 분석·제안 → 응답 검사</text><text x="845" y="339">개인 자료 · 결과 · 문서 판 · 진행 상태</text>
+    </g>
+    <rect x="33" y="298" width="704" height="65" rx="8" fill="#ebf1ff"/>
+    <text x="53" y="325" fill="#0040d9" font-size="13" font-weight="700">중요한 판단에서 사용자에게 돌아옵니다.</text>
+    <text x="53" y="347" fill="#354156" font-size="12">강점·소재·주장 선택을 구분하고, 저장한 상태에서 이어갑니다.</text>
+    <path d="M34 389H1126" stroke="#d5dce8"/>
+    <text x="34" y="421" fill="#45536a" font-size="12">Vercel 웹 + 내부 API 서비스</text><text x="430" y="421" fill="#45536a" font-size="12">활성 브라우저에서 한 작업씩 진행</text><text x="844" y="421" fill="#45536a" font-size="12">상주 Worker · Cron · DBOS 제외</text>
+  </g>
+</svg>
