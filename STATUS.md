@@ -1,6 +1,6 @@
 # 현재 상태
 
-[← 프로젝트 소개](README.md) · [시스템 설계](ARCHITECTURE.md) · [사용자 흐름](USER_JOURNEY.md)
+[← 프로젝트 소개](README.md) · [설계 의도](DESIGN_INTENT.md) · [시스템 설계](ARCHITECTURE.md) · [사용자 흐름](USER_JOURNEY.md)
 
 **기준일: 2026.11.11 · 외부 체험 공개 · 전체 제품은 개발 중**
 

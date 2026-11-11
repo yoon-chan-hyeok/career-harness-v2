@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="704" viewBox="0 0 480 704" role="img" aria-labelledby="title desc">
+  <title id="title">문장 앞의 준비 과정</title>
+  <desc id="desc">공고와 직무 이해, 경험 근거 대조, 사용자 강점과 소재 선택, 문항별 주장 확인, 작성 청사진과 선택 수정을 거쳐 작성 준비 자료를 저장한다.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#0040d9"/></marker></defs>
+  <rect x="1" y="1" width="478" height="702" rx="14" fill="#fff" stroke="#d5dce8"/>
+  <g font-family="Malgun Gothic,Noto Sans KR,Arial,sans-serif">
+    <text x="30" y="36" fill="#0040d9" font-size="11" font-weight="700" letter-spacing="1.5">JASOSEO COACH / USER JOURNEY</text>
+    <text x="30" y="76" fill="#101522" font-size="29" font-weight="800">문장 앞의 준비 과정</text>
+    <text x="30" y="103" fill="#45536a" font-size="13">이유를 이해하고, 내 경험으로 선택합니다.</text>
+    <g fill="none" stroke="#0040d9" stroke-width="2" marker-end="url(#arrow)"><path d="M240 205V225"/><path d="M240 304V324"/><path d="M240 403V423"/><path d="M240 502V522"/></g>
+    <g fill="#f7f9fc" stroke="#d5dce8"><rect x="29" y="132" width="422" height="73" rx="8"/><rect x="29" y="231" width="422" height="73" rx="8"/><rect x="29" y="330" width="422" height="73" rx="8"/><rect x="29" y="429" width="422" height="73" rx="8"/></g>
+    <rect x="29" y="528" width="422" height="73" rx="8" fill="#0040d9"/>
+    <g fill="#0040d9" font-size="12" font-weight="700"><text x="46" y="159">01</text><text x="46" y="258">02</text><text x="46" y="357">03</text><text x="46" y="456">04</text></g>
+    <g fill="#101522" font-size="19" font-weight="700"><text x="80" y="160">회사·직무 이해</text><text x="80" y="259">내 경험과 근거 대조</text><text x="80" y="358">보여줄 강점·문항별 소재 선택</text><text x="80" y="457">문항의 핵심 주장 확인</text></g>
+    <g fill="#45536a" font-size="12"><text x="80" y="184">어떤 일을 하고, 무엇을 만들어야 하는가</text><text x="80" y="283">내가 한 일과 설명할 수 있는 범위는 어디인가</text><text x="80" y="382">어떤 실제 면모를 어떤 경험으로 보여줄 것인가</text><text x="80" y="481">판단과 행동이 어떻게 주장을 뒷받침하는가</text></g>
+    <g fill="#fff"><text x="46" y="555" font-size="12" font-weight="700">05</text><text x="80" y="556" font-size="19" font-weight="700">작성 청사진·선택 수정</text><text x="80" y="580" font-size="12">유지할 것과 고칠 것을 정해 작성 자료로 남기기</text></g>
+    <path d="M30 626H450" stroke="#d5dce8"/>
+    <text x="30" y="652" fill="#0040d9" font-size="13" font-weight="700">중요한 선택은 사용자가 확인합니다.</text>
+    <text x="30" y="677" fill="#45536a" font-size="11">현재 새 흐름은 작성 자료 인계까지 연결 · 전체 제품 개발 중</text>
+  </g>
+</svg>
